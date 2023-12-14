@@ -83,7 +83,7 @@ def QnA(question):
 
 
 # Title
-st.title("Title")
+st.title("MTI 1000")
 
 # Initialize chat history
 if "messages" not in st.session_state:
